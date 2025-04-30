@@ -1,11 +1,16 @@
-# Where2?
-● Designed, developed, and launched a mobile application that scrapes event data from 
-Fatsoma.com and displays it on an interactive map using the Google Maps API.  
-● Utilised Python for web scraping, Flask for the back-end server, and Dart with Flutter for the 
-frontend development. 
-● Gained hands-on experience with full-stack development, including API integration, data parsing, 
-and asynchronous programming. 
-● Enhanced skills in mobile UI/UX design, client-server communication, and managing app 
-deployment to the App Store.  
-● The app enables users to discover and navigate to events based on their location, improving event 
-accessibility and user engagement. 
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
